@@ -3,7 +3,7 @@
 const nextConfig = {
   env: {
     name: 'TQ Technologies',
-    description: 'TQ\'s un-official store for Kasm-supported workspaces.',
+    description: 'The TQ un-official store for Kasm-supported workspaces.',
     icon: '/img/tq.png',
     listUrl: 'https://github.com/tquizzle/kasm-registry/',
     contactUrl: 'https://github.com/tquizzle/kasm-registry/issues',
